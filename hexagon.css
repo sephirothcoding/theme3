@@ -417,7 +417,7 @@ label {
   vertical-align: middle;
 }
 .page-home .overlay {
-  background-color: rgba(14, 17, 24, 0.97);
+  background-color: rgba(3, 138, 255);, 1;
 }
 
 /* End of container */
@@ -520,7 +520,7 @@ label {
 }
 .hex-item div::before,
 .hex-item div::after {
-  background-color: #1e2530;
+  background-color: #e1dacf;
   content: "";
   position: absolute;
   width: 100%;
