@@ -171,6 +171,7 @@ body.section-show .close-btn{
 }
 .front-section{
 	background-image: url("https://i.imgur.com/lQsmTEK.jpg");
+	background-size: cover;
 }
 .section{
 	position:fixed;
